@@ -14,7 +14,7 @@ Highly motivated full-stack developer lately graduated, with strong foundation i
 
 - 📫 How to reach me **mguernaoui03@gmail.com**
 
-- 📱 Go visite <a href="https://medmks.github.io/vite-Porfolio/" target="_blank" rel="noreferrer">my website</a>
+- 📱 Go visite <a href="https://medmks.github.io/vite-Porfolio/" target="_blank" rel="noreferrer">**the website**</a>
 
 - ⚡ Fun fact **I hit the Gym every day**
 
