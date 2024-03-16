@@ -2,7 +2,7 @@
 
 **`FULL-STACK/CROSS-PLATFORM DEVELOPER`**
 
-Highly motivated full-stack developer lately graduated, with strong foundation in programming languages and technologies. Having the essential competencies required to proficiently accomplish tasks in web application development. Beside 1+ year of experience working in collaboration with other developers on building online stores and websites for small business. My primary goal is to gain invaluable hands-on experience while contributing my skills to a dynamic team.
+Highly motivated full-stack developer lately graduated, with strong foundation in programming languages and technologies. Having the essential competencies required to proficiently accomplish tasks in web application development. Beside 3+ year of experience working in collaboration with other developers on building online stores and websites for small business. My primary goal is to gain invaluable hands-on experience while contributing my skills to a dynamic team.
 
 
 
