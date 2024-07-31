@@ -1,4 +1,4 @@
-#                                                                                                                                                                                                                                                                                                                                                                  MOHAMED GUERNAOUI
+# MOHAMED GUERNAOUI
 
 **`FULL-STACK/CROSS-PLATFORM DEVELOPER`**
 
